@@ -2,7 +2,7 @@
 
 This repository tracks my daily progress in Data Structures and Algorithms. 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vinodnaikr?theme=dark&font=Istok%20Web&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ramavthvinodnaik?theme=dark&font=Istok%20Web&ext=activity)
 ## 📂 Structure
 - Each folder contains the solution and a problem description generated automatically.
 - Solutions are written in **Python**.
