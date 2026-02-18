@@ -22,6 +22,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
+| [0401-binary-watch](https://github.com/vinodnaikr/Leet-Code/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
@@ -35,4 +36,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/vinodnaikr/Leet-Code/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
