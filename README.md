@@ -22,6 +22,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
+| [0693-binary-number-with-alternating-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
