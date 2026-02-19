@@ -18,6 +18,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/vinodnaikr/Leet-Code/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +41,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/vinodnaikr/Leet-Code/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/vinodnaikr/Leet-Code/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
