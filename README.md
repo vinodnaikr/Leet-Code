@@ -13,6 +13,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinodnaikr/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/vinodnaikr/Leet-Code/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinodnaikr/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
