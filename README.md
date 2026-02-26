@@ -21,6 +21,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/vinodnaikr/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/0761-special-binary-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinodnaikr/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -30,11 +31,13 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0693-binary-number-with-alternating-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinodnaikr/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinodnaikr/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinodnaikr/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Hash Table
 |  |
 | ------- |
