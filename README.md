@@ -41,6 +41,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
@@ -87,6 +88,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
