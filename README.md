@@ -96,6 +96,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Counting
 |  |
 | ------- |
@@ -115,5 +116,10 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
