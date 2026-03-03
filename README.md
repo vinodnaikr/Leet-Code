@@ -68,6 +68,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0761-special-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -130,4 +132,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
