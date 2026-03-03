@@ -52,6 +52,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
@@ -69,10 +70,12 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
@@ -101,11 +104,13 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Breadth-First Search
 |  |
