@@ -66,6 +66,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0696-count-binary-substrings](https://github.com/vinodnaikr/Leet-Code/tree/master/0696-count-binary-substrings) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
@@ -130,6 +132,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Matrix
