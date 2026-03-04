@@ -12,6 +12,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinodnaikr/Leet-Code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinodnaikr/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -136,6 +137,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinodnaikr/Leet-Code/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
