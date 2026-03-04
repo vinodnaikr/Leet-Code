@@ -104,6 +104,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -143,4 +144,5 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
