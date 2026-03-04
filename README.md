@@ -109,6 +109,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
