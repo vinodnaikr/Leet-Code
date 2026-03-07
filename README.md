@@ -30,6 +30,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinodnaikr/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -61,6 +62,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +155,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
