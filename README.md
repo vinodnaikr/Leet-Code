@@ -160,8 +160,10 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vinodnaikr/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->
