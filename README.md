@@ -135,6 +135,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -146,6 +147,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +176,13 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
