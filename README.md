@@ -113,6 +113,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0001-two-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
@@ -169,4 +170,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0238-product-of-array-except-self](https://github.com/vinodnaikr/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
