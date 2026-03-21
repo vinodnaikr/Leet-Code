@@ -79,6 +79,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/vinodnaikr/Leet-Code/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/vinodnaikr/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vinodnaikr/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
@@ -90,6 +91,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinodnaikr/Leet-Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -123,6 +125,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0011-container-with-most-water](https://github.com/vinodnaikr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/vinodnaikr/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vinodnaikr/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
