@@ -18,6 +18,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1622-fancy-sequence](https://github.com/vinodnaikr/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
@@ -67,6 +68,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +155,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [2906-construct-product-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinodnaikr/Leet-Code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vinodnaikr/Leet-Code/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vinodnaikr/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
@@ -161,6 +164,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0169-majority-element](https://github.com/vinodnaikr/Leet-Code/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,6 +226,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vinodnaikr/Leet-Code/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 ## Binary Search
 |  |
@@ -229,6 +234,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0033-search-in-rotated-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -258,4 +264,12 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
