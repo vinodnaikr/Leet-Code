@@ -21,6 +21,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
@@ -109,6 +110,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vinodnaikr/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
 |  |
