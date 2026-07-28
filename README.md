@@ -41,6 +41,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -111,6 +112,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vinodnaikr/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Rolling Hash
@@ -284,4 +286,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
