@@ -15,6 +15,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0050-powx-n](https://github.com/vinodnaikr/Leet-Code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vinodnaikr/Leet-Code/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinodnaikr/Leet-Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/vinodnaikr/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -160,6 +161,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0540-single-element-in-a-sorted-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinodnaikr/Leet-Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vinodnaikr/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -235,6 +237,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinodnaikr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinodnaikr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -303,4 +306,16 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
