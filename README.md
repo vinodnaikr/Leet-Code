@@ -142,6 +142,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3310-remove-methods-from-project](https://github.com/vinodnaikr/Leet-Code/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Breadth-First Search
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/vinodnaikr/Leet-Code/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -268,6 +270,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/vinodnaikr/Leet-Code/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
