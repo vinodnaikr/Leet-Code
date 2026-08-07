@@ -23,6 +23,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -46,6 +47,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -95,6 +97,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [0401-binary-watch](https://github.com/vinodnaikr/Leet-Code/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vinodnaikr/Leet-Code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +219,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vinodnaikr/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
@@ -310,6 +314,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
 | ------- |
