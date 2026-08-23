@@ -20,6 +20,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1622-fancy-sequence](https://github.com/vinodnaikr/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/vinodnaikr/Leet-Code/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinodnaikr/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -45,6 +46,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinodnaikr/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/vinodnaikr/Leet-Code/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +224,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/vinodnaikr/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/vinodnaikr/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/vinodnaikr/Leet-Code/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -339,6 +342,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/vinodnaikr/Leet-Code/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
