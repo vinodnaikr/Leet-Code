@@ -49,6 +49,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1927-sum-game](https://github.com/vinodnaikr/Leet-Code/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vinodnaikr/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -96,6 +97,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinodnaikr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinodnaikr/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vinodnaikr/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
