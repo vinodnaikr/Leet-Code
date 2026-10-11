@@ -187,6 +187,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vinodnaikr/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinodnaikr/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinodnaikr/Leet-Code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinodnaikr/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -310,6 +311,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
