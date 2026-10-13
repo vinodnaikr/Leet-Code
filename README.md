@@ -136,6 +136,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vinodnaikr/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Rolling Hash
 |  |
@@ -197,6 +198,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3546-equal-sum-grid-partition-i](https://github.com/vinodnaikr/Leet-Code/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vinodnaikr/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vinodnaikr/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -233,6 +235,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vinodnaikr/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
