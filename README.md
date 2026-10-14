@@ -31,6 +31,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -235,6 +236,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/vinodnaikr/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/vinodnaikr/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/vinodnaikr/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vinodnaikr/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
