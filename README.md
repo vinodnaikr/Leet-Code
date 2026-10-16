@@ -89,6 +89,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/vinodnaikr/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinodnaikr/Leet-Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -191,6 +192,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1980-find-unique-binary-string](https://github.com/vinodnaikr/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2906-construct-product-matrix](https://github.com/vinodnaikr/Leet-Code/tree/master/2906-construct-product-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vinodnaikr/Leet-Code/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinodnaikr/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vinodnaikr/Leet-Code/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -308,6 +310,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/vinodnaikr/Leet-Code/tree/master/1622-fancy-sequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -357,4 +360,8 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vinodnaikr/Leet-Code/tree/master/1406-stone-game-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
