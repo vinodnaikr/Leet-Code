@@ -73,6 +73,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vinodnaikr/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vinodnaikr/Leet-Code/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vinodnaikr/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vinodnaikr/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -204,6 +205,7 @@ This repository tracks my daily progress in Problem Solving ,Data Structures and
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vinodnaikr/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/vinodnaikr/Leet-Code/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/vinodnaikr/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vinodnaikr/Leet-Code/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vinodnaikr/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vinodnaikr/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Counting
